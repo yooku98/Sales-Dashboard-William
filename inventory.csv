@@ -1,0 +1,7 @@
+product_id,stock_level,restock_threshold
+201,5,3
+202,20,10
+203,8,5
+204,12,10
+205,7,4
+206,3,5

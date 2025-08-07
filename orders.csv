@@ -1,0 +1,9 @@
+order_id,customer_id,order_date,amount_usd,product,quantity
+101,1,2024-01-05,120,Laptop Bag,2
+102,2,2024-01-07,850,Laptop,1
+103,3,2024-02-01,45,Mouse,3
+104,4,2024-03-12,650,Tablet,1
+105,5,2024-04-21,180,Bluetooth Speaker,2
+106,2,2024-05-01,120,Laptop Bag,1
+107,3,2024-05-15,300,Keyboard,2
+108,1,2024-06-10,75,Mouse,5
