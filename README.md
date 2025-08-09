@@ -8,7 +8,7 @@
 - Inventory data
 
 🔗 View the live dashboard here:  
-[Click to View on Tableau Public]([https://public.tableau.com/views/YourDashboardName/Sheet1](https://public.tableau.com/app/profile/william.thompson1921/viz/RevenueofGadgetsbyCountryDashboard/Sheet1))
+[Click to View on Tableau Public](https://public.tableau.com/app/profile/william.thompson1921/viz/RevenueofGadgetsbyCountryDashboard/Sheet1))
 
 ## Key Features:
 - Revenue by country and product category
